@@ -7,7 +7,7 @@ This is a web based application developed for a health related based wedsite in 
 
 
 **Project Link** -https://purple-stone-0c721d600.3.azurestaticapps.net
-**Demo Video** -  
+**Demo Video** -  https://youtu.be/ZAHv0Tgg3Xg
 
 **Azure Technologies used for project**
 
