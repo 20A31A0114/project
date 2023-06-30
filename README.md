@@ -11,7 +11,8 @@ This is a web based application developed for a health related based wedsite in 
 
 **Azure Technologies used for project**
 
-Site web apps,
+Site web apps
+
 Health bot
 ## Features and Functionalities 😃
 
