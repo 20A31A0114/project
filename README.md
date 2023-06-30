@@ -10,8 +10,9 @@ This is a web based application developed for a health related based wedsite in 
 **Demo Video** -  
 
 **Azure Technologies used for project**
-.Site web apps
-.Health bot
+
+Site web apps,
+Health bot
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
