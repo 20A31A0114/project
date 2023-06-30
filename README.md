@@ -7,10 +7,11 @@ This is a web based application developed for a health related based wedsite in 
 
 
 **Project Link** -https://purple-stone-0c721d600.3.azurestaticapps.net
-
-
 **Demo Video** -  
 
+**Azure Technologies used for project**
+.Site web apps
+.Health bot
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
